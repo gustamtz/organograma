@@ -1,4 +1,4 @@
-# ORGANO TPZ
+# ORGANO
 
 ## Base do projeto
 
