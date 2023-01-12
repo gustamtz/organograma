@@ -1,4 +1,21 @@
-# ORGANOGRAMA
+# Desafio organograma com React. (Customizado)
+
+https://user-images.githubusercontent.com/113216494/212168693-411b6cea-eee0-487d-a4cc-47b6cf8e0d26.mp4
+
+<br>
+<br>
+
+## Descrição 
+Aplicação para organizar pessoas em times específicos, como "Power Point" e "Pesquisas".
+
+<br>
+
+## Acesse ou visualize
+1. Clique no *link* que está na descrição do repositório para visualizar o projeto.
+2. Baixe o `zip` ou clone o repositório e abra no seu editor de código de prefêrencia.
 
 
-![image](https://user-images.githubusercontent.com/113216494/211813715-ea30ec5b-c791-414c-a33e-4fc27d34c9a6.png)
+<br>
+<br> 
+
+Por: <a href="https://github.com/gustamtz"> gustamtz</a>
