@@ -18,6 +18,10 @@ const Form = (props) => {
       imagem,
       time,
     });
+    setNome("");
+    setCargo("");
+    setImagem("");
+    setTime("");
   };
 
   return (
@@ -45,6 +49,7 @@ const Form = (props) => {
           aoAlterado={(valor) => setImagem(valor)}
         />
         <ListaSuspensa
+          required={true}
           label="Time"
           itens={props.times}
           valor={time}

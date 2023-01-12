@@ -1,32 +1,31 @@
 import { useState } from "react";
 import Banner from "./componentes/Banner";
 import Form from "./componentes/Formulario";
+import Rodape from "./componentes/Rodape";
 import Time from "./componentes/Time";
 
 function App() {
   const times = [
     {
-      nome: "Programação",
-      corPrimaria: "green",
-      // mudar cores secundárias!
-      corSecundaria: "#eee",
+      nome: "📅 Cronograma",
+      corPrimaria: "#FFBA05",
+      corSecundaria: "#FFF5D9",
     },
     {
-      nome: "Pesquisas",
+      nome: "🔎 Pesquisas",
       corPrimaria: "#6278f7",
-      corSecundaria: "#eee",
+      corSecundaria: "#E8F8FF",
     },
     {
-      nome: "Power Point",
+      nome: "🎨 Power Point",
       corPrimaria: "orange",
-      corSecundaria: "#eee",
+      corSecundaria: "#FFEEDF",
     },
   ];
 
   const [integrantes, setIntegrantes] = useState([]);
 
   const aoNovoIntegranteAdd = (integrante) => {
-    console.log(integrante);
     setIntegrantes([...integrantes, integrante]);
   };
 
@@ -44,9 +43,12 @@ function App() {
           nome={time.nome}
           corPrimaria={time.corPrimaria}
           corSecundaria={time.corSecundaria}
-          integrantes={integrantes}
+          integrantes={integrantes.filter(
+            (integrante) => integrante.time === time.nome
+          )}
         />
       ))}
+      <Rodape />
     </div>
   );
 }

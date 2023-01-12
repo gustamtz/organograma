@@ -1,8 +1,9 @@
 .banner {
+  padding: 10px;
   background: #6278f7;
   text-align: center;
 }
 
 .banner img {
-  width: 100%;
+  width: 50%;
 }

@@ -1,0 +1,30 @@
+/* src/componentes/Rodape/index.js */
+
+.footer {
+  margin-top: 2px;
+  background: #6278f7;
+  color: #fff;
+  padding: 40px;
+}
+
+.footer img {
+  width: 100px;
+  display: block;
+  margin: auto;
+}
+
+.footer p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

@@ -1,14 +1,14 @@
 import "./Integrante.css";
 
-const Integrante = () => {
+const Integrante = (props) => {
   return (
     <div className="integrante">
-      <div className="cabecalho">
-        <img src="https://github.com/gustamtz.png" alt="Gustavo" />
+      <div className="cabecalho" style={{ backgroundColor: props.corDeFundo1 }}>
+        <img src={props.imagem} alt={props.nome} />
       </div>
       <div className="rodape">
-        <h4>Gustavo</h4>
-        <h5>Developer</h5>
+        <h2>{props.nome}</h2>
+        <h4 style={{ color: props.corDeFundo1 }}>{props.cargo}</h4>
       </div>
     </div>
   );
