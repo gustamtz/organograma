@@ -19,4 +19,5 @@ Aplicação para organizar pessoas específicas em determinados times, como "Pow
 <br> 
 
 Por: <a href="https://github.com/gustamtz"> gustamtz</a>
+
 Créditos: @Alura
