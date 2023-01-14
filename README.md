@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/113216494/212168693-411b6cea-eee0-487d
 <br>
 
 ## Descrição 
-Aplicação para organizar pessoas em times específicos, como "Power Point" e "Pesquisas".
+Aplicação para organizar pessoas específicas em determinados times, como "Power Point" e "Pesquisas".
 
 <br>
 
@@ -19,3 +19,4 @@ Aplicação para organizar pessoas em times específicos, como "Power Point" e "
 <br> 
 
 Por: <a href="https://github.com/gustamtz"> gustamtz</a>
+Créditos: @Alura
