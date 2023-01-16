@@ -18,6 +18,8 @@ Aplicação para organizar pessoas específicas em determinados times, como "Pow
 <br>
 <br> 
 
-Por: <a href="https://github.com/gustamtz"> gustamtz</a>
+Por: <a href="https://github.com/gustamtz">gustamtz</a>
+
+Participação: <a href="https://github.com/LucasCavalheri">LucasCavalheri</a>
 
 Créditos: @Alura
