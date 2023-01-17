@@ -1,4 +1,4 @@
-# Desafio organograma com React. (Customizado)
+# Desafio organograma com React. 
 
 https://user-images.githubusercontent.com/113216494/212168693-411b6cea-eee0-487d-a4cc-47b6cf8e0d26.mp4
 
