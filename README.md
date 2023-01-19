@@ -1,12 +1,11 @@
 # Desafio organograma com React. 
 
+# Descrição 
+Aplicação para organizar pessoas específicas em determinados times.
+
+<br>
+
 https://user-images.githubusercontent.com/113216494/212168693-411b6cea-eee0-487d-a4cc-47b6cf8e0d26.mp4
-
-<br>
-<br>
-
-## Descrição 
-Aplicação para organizar pessoas específicas em determinados times, como "Power Point" e "Pesquisas".
 
 <br>
 
