@@ -10,10 +10,8 @@ https://user-images.githubusercontent.com/113216494/212168693-411b6cea-eee0-487d
 <br>
 
 ## Tecnologias
-<div>
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />   
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div> 
+- React
+- CSS
 
 <br>
 
